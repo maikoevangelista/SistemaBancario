@@ -71,6 +71,8 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 6 - CONSTRUTORES
 
 7 - TRABALHANDO COM OBJETOS
+                                                                                                                                                  
+8 - MODIFICADORES DE ACESSO                                                                                                                                                  
 
        Cap 4 - Herança
        Cap 5 - Estrutura de Repetição Arrays Strings e Coleções

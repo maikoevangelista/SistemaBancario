@@ -4,7 +4,7 @@ public class Teste {
 
     public static void main(String[] args) {
 
-        Conta cc = new Conta();
+        private Conta cc = new Conta();
         cc.saldo = 50.0;
         cc.agenncia = 123;
         cc.numero = 321;

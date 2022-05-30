@@ -2,7 +2,8 @@ package br.com.fiap.banco
 
 public class Conta {
 
-    protected int agencia;
+    // Atributos de Classes
+    int agencia;
     int numero;
     double saldo;
 

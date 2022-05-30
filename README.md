@@ -72,8 +72,14 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 
 7 - TRABALHANDO COM OBJETOS
                                                                                                                                                   
-8 - MODIFICADORES DE ACESSO                                                                                                                                                  
-
+8 - MODIFICADORES DE ACESSO   
+                      
+                                                                                                                                                  
+9 - JAVA API SPECIFICATION
+                                                                                                                                                  
+10 - COMENTÁRIOS
+                                                                                                                                                  
+                                                                                                                                                  
        Cap 4 - Herança
        Cap 5 - Estrutura de Repetição Arrays Strings e Coleções
        Cap 6 - Exceptions mais Vários Design Patterns DP
